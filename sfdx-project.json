@@ -1,0 +1,15 @@
+{
+  "packageDirectories": [
+    {
+      "path": "Expense",
+      "default": true,
+      "id": "0Ho6A0000004CAfSAM",
+      "versionName": "Version 1",
+      "versionDescription": "Expense App",
+      "versionNumber": "1.0.0.NEXT"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
